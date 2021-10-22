@@ -1,0 +1,3 @@
+Scene 2 twee keer opnieuw moeten starten door ubuntu verkeerde commands.
+scene 2 level 1 fout ingevoerd, stopte na practice. opnieu task gestart bij level 1 met practics n=10
+Lost tracking bij scene 2 level 2 spawn 20 -- verwijderd

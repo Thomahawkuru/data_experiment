@@ -1,0 +1,3 @@
+Sensor angle veranderd naar 15 deg
+Geen eyetracking in Scene 1
+Hand Tracking verloren bij scene 2 - roomsetup was 15cm te laag

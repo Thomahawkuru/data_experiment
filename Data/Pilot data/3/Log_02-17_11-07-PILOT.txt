@@ -1,0 +1,3 @@
+Sensor terug geplaast naar boven met angle 25 deg
+Gecrasht bij Scene 2
+Hand Tracking verloren bij scene 2 - roomsetup was 15cm te laag
