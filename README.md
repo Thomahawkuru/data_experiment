@@ -15,8 +15,7 @@ Main script
 - Set global parameters
 -	Load CSV data
 -	Determine spawn and completion timestamps
-  -	Run TimeStamps function
-  
+  -	Run TimeStamps function    
 -	Determine paths taken between timestamps
 -	Run ‘Subjective_Analysis’
   -	Load questionare answers
