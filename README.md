@@ -13,12 +13,12 @@ The following scripts are the functions that calculate each individual measure. 
 
 Main script
 * Set global parameters
-*	Load CSV data
+*	Load CSV filse per participant from Data folder
 * Determine spawn and completion timestamps
   - Run TimeStamps function    
 * Determine paths taken between timestamps
-* Run ‘Subjective_Analysis’
-  - Load questionare answers
+* Run ‘Subjective_Analysis.m’
+  - Load questionare answers from CSV
   - Take average scores for the subjective measures
   - Plot calculated data
 * Run ‘Time_Analysis.m'
