@@ -11,7 +11,7 @@ Curve Fitting Toolbox, Signal Processing Toolbox, Econometrics Toolbox
 # Contents
 The following scripts are the functions that calculate each individual measure. The script structure is as followed. A main script loads the recorded data from the CSV files and puts the data in a datastructure. Then the main scripts runs analysis scripts for each measure. Each analysis scritp parses the data from from both conditions to the calculation functions, plots the results and performs a t-test.
 
-###Main script
+### Main script
 * Set global parameters
 *	Load CSV filse per participant from Data folder
 * Determine spawn and completion timestamps
