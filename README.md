@@ -18,9 +18,9 @@ Main script
   -	Run TimeStamps function
 -	Determine paths taken between timestamps
 -	Run ‘Subjective_Analysis’
-  -	Load questionare answers
-  -	Take average scores for the subjective measures
-  -	Plot calculated data
+   -	Load questionare answers
+   -	Take average scores for the subjective measures
+   -	Plot calculated data
 -	Run ‘Time_Analysis
   -	Load previous determined timestamps, plot data and perform t-test.
 -	Run ‘Deviation_analysis’
