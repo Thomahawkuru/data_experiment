@@ -14,30 +14,30 @@ The following scripts are the functions that calculate each individual measure. 
 Main script
 * Set global parameters
 *	Load CSV data
-*	Determine spawn and completion timestamps
-  -	Run TimeStamps function    
-*	Determine paths taken between timestamps
-*	Run ‘Subjective_Analysis’
-  -	Load questionare answers
-  -	Take average scores for the subjective measures
-  -	Plot calculated data
-* Run ‘Time_Analysis
+* Determine spawn and completion timestamps
+  - Run TimeStamps function    
+* Determine paths taken between timestamps
+* Run ‘Subjective_Analysis’
+  - Load questionare answers
+  - Take average scores for the subjective measures
+  - Plot calculated data
+* Run ‘Time_Analysis.m'
   - Load previous determined timestamps, plot data and perform t-test.
-* Run ‘Deviation_analysis’
+* Run ‘Deviation_analysis.m’
   - Run the PathDeviation function, plot data and perform t-test.
-* Run ‘Length_Analysis’
+* Run ‘Length_Analysis.m’
   - Run the PathLength function, plot data and perform t-test.
-* Run ‘Velocity_Analysis’
+* Run ‘Velocity_Analysis.m’
   - Run the InputVelocity function, plot data and perform t-test.
-* Run ‘Acceleration_Analysis’
+* Run ‘Acceleration_Analysis.m’
   - Run the InputAcceleration function, plot data and perform t-test.
-* Run ‘Jerk_Analysis’
+* Run ‘Jerk_Analysis.m’
   - Run the InputJerk function, plot data and perform t-test.
-* Run ‘Error_Analysis’
+* Run ‘Error_Analysis.m’
   - Run the ErrorRate function, plot data and perform t-test.
-* Run ‘Reaction_Analysis’
+* Run ‘Reaction_Analysis.m’
   - Run the ReactionTime function, plot data and perform t-test.
-*	Run ‘Difficulty_Analysis’
+*	Run ‘Difficulty_Analysis.m’
   - Run the previous analyses on the spanws for each level of difficulty
 *	Gather overall results
   - Plot boxplot overview of all measures
