@@ -3,7 +3,7 @@ Data analysis project for the experiment found in:
 https://github.com/Thomahawkuru/panda_experiment  
 https://github.com/Thomahawkuru/unity_experiment  
 
-Raw data is included
+Recorded data from an experiment with 26 participants is included
 
 # Required MATLAB add-ons
 - Curve Fitting Toolbox
