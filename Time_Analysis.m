@@ -31,5 +31,8 @@ subplot(223); text(max([Scene1.avgTime])*0.9,min([Scene2.avgTime])*0.8,append('p
 % [h21, p21] = ttest([Scene2.avgTime], avgAllTime_1_2(1))
 % [h22, p22] = ttest([Scene2.avgTime], avgAllTime_1_2(2))
 
-%% Fontsize
+%Fontsize
 set(findall(gcf,'-property','FontSize'),'FontSize',fontsize)
+
+%% Saving
+csvwrite('Calculated',
