@@ -1,0 +1,3 @@
+Participant:
+mentaal model in scene 1 hield tegen, maar zou bij meer training beter kunnen worden.
+scene 2 kwam veel natuurlijker omdat je body awareness je helpt bij bewegen

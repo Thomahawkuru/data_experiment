@@ -1,0 +1,6 @@
+bij scene 2 paar extra tips nodig in level 1 over control hoogte
+kleine mensen staan misschien te dicht bij het scherm in scene 2??
+
+Participant:
+veel IO usability testts gedaan dus ging heel erg uit van ergonomie en bruikbaarheid. 
+zag scene 2 ECHT NIET als touchscreen/direct. zag scene 1 als meer aangeleerd

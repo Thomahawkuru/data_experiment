@@ -1,2 +1,0 @@
-bij scene 2 geswitch tussen tactiekene: robot centered of hand centered (probeer datat te filteren)
-bij scene 2 viel het 3d mapping naar 2d mapping erg op waardoor soms disconnected raakte
