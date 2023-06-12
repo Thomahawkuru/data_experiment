@@ -24,7 +24,7 @@ for participant in range(1, participants + 1):
     for trial in range(1, trials + 1):
         print(), print('Trial ' + str(trial))
         
-        trialpath = datapath + f'{participant}\\Scene {trial}'
+        trialpath = datapath + f'{participant}\\Scene {trial}'+'\\'
         
         experiment_data     = readers.file(trialpath, participant, trial, 'Experiment.csv' )
         timestamps          = calculators.timestamps(experiment_data, savepath, participant, trial)   
