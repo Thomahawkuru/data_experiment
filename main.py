@@ -14,11 +14,11 @@ import calculators
 # Import csv files --------------------------------------------------------------------------------------------------
 datapath        = os.getcwd() + "\\data\\"        # full path to data
 savepath        = os.getcwd() + "\\save\\"        # full path to data
-participants    = 30                            # number of participants
+participants    = 26                            # number of participants
 trials          = 2                             # trials per participant
 filename        = 'Experiment.csv'              # looks for files with this string in the name
 
-for participant in range(5, participants + 1):
+for participant in range(1, participants + 1):
     print(), print(), print(f'Analyisis results for participant {participant}')
 
     for trial in range(1, trials + 1):
